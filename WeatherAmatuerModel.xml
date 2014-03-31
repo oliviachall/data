@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<weather>
+    
+    <weatherCondition condition="VMC">
+        <definition>
+            VMC: Visual Meteorological Conditions is an aviation flight category in which visual flight rules flight is permitted – that is, conditions in which pilots have sufficient visibility to fly the aircraft maintaining visual separation from terrain and other aircraft.
+        </definition>
+        <weatherAccidents>3508</weatherAccidents>
+        <percent>80.5</percent>
+    </weatherCondition>
+    
+    <weatherCondition condition="IMC">
+        <definition>
+            IMC: Instrument Meteorological Conditions is an aviation flight category that describes weather conditions that require pilots to fly primarily by reference to instruments, rather than by outside visual references under Visual Flight Rules. Typically, this means flying in cloud or bad weather.
+        </definition>
+        <weatherAccidents>850</weatherAccidents>
+        <percent>19.5</percent>
+    </weatherCondition>
+    
+</weather>
+<!--4358 specified-->
+
+<amateurBuilt>
+    
+    <built amateur="yes">
+    <amaAccidents>824</amaAccidents>
+    </built>
+    
+    <built amateur="no">
+    <amaAccidents>3564</amaAccidents>
+    </built>
+    
+</amateurBuilt>
+<!--4388 specified-->
+
+<aircraftType>
+    
+    <aircraft craft="Airplanes">
+        <craftAccidents>1518</craftAccidents>
+    </aircraft>
+    
+    <aircraft craft="Balloons">
+        <craftAccidents>4</craftAccidents>
+    </aircraft>
+    
+    <aircraft craft="Gliders">
+        <craftAccidents>35</craftAccidents>
+    </aircraft>
+    
+    <aircraft craft="Gyrocrafts">
+        <craftAccidents>10</craftAccidents>
+    </aircraft>
+    
+     <aircraft craft="Helicopters">
+        <craftAccidents>170</craftAccidents>
+    </aircraft>
+    
+    <aircraft craft="Ultralights">
+        <craftAccidents>2</craftAccidents>
+    </aircraft>
+    
+</aircraftType>
+<!--1739 specified-->
+
+<aircraftMake>
+    
+    <plane make="Cessna">
+        <makeAccidents>998</makeAccidents>
+    </plane>
+    
+    <plane make="Piper">
+        <makeAccidents>685</makeAccidents>
+    </plane>
+    
+    <plane make="Beech">
+        <accidents>408</accidents>
+    </plane>
+    
+     <plane make="Bell">
+        <makeAccidents>114</makeAccidents>
+    </plane>
+   
+    <plane make="Mooney">
+        <makeAccidents>96</makeAccidents>
+    </plane>
+    
+</aircraftMake>
+
+<broadPhaseOfFlight>
+    
+    <flight phase="Approach">
+        <flightAccidents>593</flightAccidents>
+    </flight>
+    
+    <flight phase="Climb">
+        <flightAccidents>165</flightAccidents>
+    </flight>
+    
+    <flight phase="Cruise">
+        <flightAccidents>681</flightAccidents>
+    </flight>
+    
+    <flight phase="Descent">
+        <flightAccidents>162</flightAccidents>
+    </flight>
+    
+     <flight phase="Go-Around">
+        <flightAccidents>97</flightAccidents>
+    </flight>
+    
+    <flight phase="Landing">
+        <flightAccidents>121</flightAccidents>
+    </flight>
+    
+    <flight phase="Maneuvering">
+        <flightAccidents>1159</flightAccidents>
+    </flight>
+    
+    <flight phase="Other">
+        <flightAccidents>7</flightAccidents>
+    </flight>
+    
+    <flight phase="Standing">
+        <flightAccidents>33</flightAccidents>
+    </flight>
+    
+    <flight phase="Take Off">
+        <flightAccidents>682</flightAccidents>
+    </flight>
+    
+    <flight phase="Taxi">
+        <flightAccidents>12</flightAccidents>
+    </flight>
+    
+    <flight phase="Unknown">
+        <flightAccidents>82</flightAccidents>
+    </flight>
+    
+</broadPhaseOfFlight>
+<!--3794 specified-->

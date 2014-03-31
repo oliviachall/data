@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<states>
+    
+    <state name="Alabama" abbrev="AL">
+        <accidents>71</accidents>
+    </state>
+    
+    <state name="Alaska" abbrev="AK">
+        <accidents>152</accidents>
+    </state>
+    
+    <state name="Arizona" abbrev="AZ">
+        <accidents>176</accidents>
+    </state>
+    
+    <state name="Arkansas" abbrev="AR">
+        <accidents>76</accidents>
+    </state>
+    
+    <state name="California" abbrev="CA">
+        <accidents>518</accidents>
+    </state>
+    
+    <state name="Colorado" abbrev="CO">
+        <accidents>157</accidents>
+    </state>
+    
+    <state name="Connecticut" abbrev="CT">
+        <accidents>22</accidents>
+    </state>
+    
+    <state name="Delaware" abbrev="DE">
+        <accidents>12</accidents>
+    </state>
+    
+    <state name="Florida" abbrev="FL">
+        <accidents>328</accidents>
+    </state>
+    
+    <state name="Georgia" abbrev="GA">
+        <accidents>142</accidents>
+    </state>
+    
+    <state name="Hawaii" abbrev="HI">
+        <accidents>32</accidents>
+    </state>
+    
+    <state name="Idaho" abbrev="ID">
+        <accidents>84</accidents>
+    </state>
+    
+    <state name="Illinois" abbrev="IL">
+        <accidents>82</accidents>
+    </state>
+    
+    <state name="Indiana" abbrev="IN">
+        <accidents>60</accidents>
+    </state>
+    
+    <state name="Iowa" abbrev="IA">
+        <accidents>46</accidents>
+    </state>
+    
+    <state name="Kansas" abbrev="KS">
+        <accidents>43</accidents>
+    </state>
+    
+    <state name="Kentucky" abbrev="KY">
+        <accidents>54</accidents>
+    </state>
+    
+    <state name="Louisiana" abbrev="LA">
+        <accidents>65</accidents>
+    </state>
+    
+    <state name="Maine" abbrev="ME">
+        <accidents>31</accidents>
+    </state>
+    
+    <state name="Maryland" abbrev="MD">
+        <accidents>38</accidents>
+    </state>
+    
+    <state name="Massachusets" abbrev="MA">
+        <accidents>43</accidents>
+    </state>
+    
+    <state name="Michigan" abbrev="MI">
+        <accidents>96</accidents>
+    </state>
+    
+    <state name="Minnesota" abbrev="MN">
+        <accidents>66</accidents>
+    </state>
+    
+    <state name="Missouri" abbrev="MO">
+        <accidents>79</accidents>
+    </state>
+    
+    <state name="Mississippi" abbrev="MS">
+        <accidents>53</accidents>
+    </state>
+    
+    <state name="Montana" abbrev="MT">
+        <accidents>54</accidents>
+    </state>
+    
+    <state name="Nebraska" abbrev="NE">
+        <accidents>32</accidents>
+    </state>
+    
+    <state name="Nevada" abbrev="NV">
+        <accidents>77</accidents>
+    </state>
+    
+    <state name="New Hampshire" abbrev="NH">
+        <accidents>13</accidents>
+    </state>
+    
+    <state name="New Jersey" abbrev="NJ">
+        <accidents>52</accidents>
+    </state>
+    
+    <state name="New Mexico" abbrev="NM">
+        <accidents>70</accidents>
+    </state>
+    
+    <state name="New York" abbrev="NY">
+        <accidents>91</accidents>
+    </state>
+    
+    <state name="North Carolina" abbrev="NC">
+        <accidents>110</accidents>
+    </state>
+    
+    <state name="North Dakota" abbrev="ND">
+        <accidents>15</accidents>
+    </state>
+    
+    <state name="Ohio" abbrev="OH">
+        <accidents>89</accidents>
+    </state>
+    
+    <state name="Okalahoma" abbrev="OK">
+        <accidents>84</accidents>
+    </state>
+    
+    <state name="Oregon" abbrev="OR">
+        <accidents>103</accidents>
+    </state>
+    
+    <state name="Pennsylvania" abbrev="PA">
+        <accidents>88</accidents>
+    </state>
+    
+    <state name="Rhode Island" abbrev="RI">
+        <accidents>9</accidents>
+    </state>
+    
+    <state name="South Carolina" abbrev="SC">
+        <accidents>72</accidents>
+    </state>
+    
+    <state name="South Dakota" abbrev="SD">
+        <accidents>30</accidents>
+    </state>
+    
+    <state name="Tennessee" abbrev="TN">
+        <accidents>79</accidents>
+    </state>
+    
+    <state name="Texas" abbrev="TX">
+        <accidents>295</accidents>
+    </state>
+    
+    <state name="Utah" abbrev="UT">
+        <accidents>88</accidents>
+    </state>
+    
+    <state name="Vermont" abbrev="VT">
+        <accidents>10</accidents>
+    </state>
+    
+    <state name="Virginia" abbrev="VA">
+        <accidents>86</accidents>
+    </state>
+    
+    <state name="Washington" abbrev="WA">
+        <accidents>117</accidents>
+    </state>
+    
+    <state name="West Virginia" abbrev="WV">
+        <accidents>28</accidents>
+    </state>
+    
+    <state name="Wisconsin" abbrev="WI">
+        <accidents>88</accidents>
+    </state>
+    
+    <state name="Wyoming" abbrev="WY">
+        <accidents>45</accidents>
+    </state>
+    
+    
+</states>
+
+<!--total specified 4351--> 

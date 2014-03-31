@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<years>
+
+    <year number="2000">
+        <crashes>373</crashes>
+        <fatalities>759</fatalities>
+        <destroyed>310</destroyed> 
+    </year>
+    
+    <year number="2001">
+        <crashes>351</crashes>
+        <fatalities>1156</fatalities>
+        <destroyed>270</destroyed> 
+    </year>
+    
+     <year number="2002">
+        <crashes>363</crashes>
+        <fatalities>605</fatalities>
+        <destroyed>263</destroyed> 
+    </year>
+     
+     <year number="2003">
+        <crashes>376</crashes>
+        <fatalities>707</fatalities>
+        <destroyed>280</destroyed> 
+    </year>
+     
+    <year number="2004">
+        <crashes>351</crashes>
+        <fatalities>684</fatalities>
+        <destroyed>235</destroyed> 
+    </year>
+    
+    <year number="2005">
+        <crashes>335</crashes>
+        <fatalities>585</fatalities>
+        <destroyed>200</destroyed> 
+    </year>
+    
+    <year number="2006">
+        <crashes>322</crashes>
+        <fatalities>627</fatalities>
+        <destroyed>192</destroyed> 
+    </year>
+    
+    <year number="2007">
+        <crashes>303</crashes>
+        <fatalities>543</fatalities>
+        <destroyed>150</destroyed> 
+    </year>
+    
+    <year number="2008">
+        <crashes>288</crashes>
+        <fatalities>553</fatalities>
+        <destroyed>120</destroyed> 
+    </year>
+    
+    <year number="2009">
+        <crashes>274</crashes>
+        <fatalities>537</fatalities>
+        <destroyed>73</destroyed> 
+    </year>
+    
+    <year number="2010">
+        <crashes>271</crashes>
+        <fatalities>461</fatalities>
+        <destroyed>20</destroyed> 
+    </year>
+    
+    <year number="2011">
+        <crashes>283</crashes>
+        <fatalities>491</fatalities>
+        <destroyed>17</destroyed> 
+    </year>
+    
+    <year number="2012">
+        <crashes>272</crashes>
+        <fatalities>412</fatalities>
+        <destroyed>14</destroyed> 
+    </year>
+    
+    <year number="2013">
+        <crashes>222</crashes>
+        <fatalities>394</fatalities>
+        <destroyed>110</destroyed> 
+    </year>
+    
+</years>

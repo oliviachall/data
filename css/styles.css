@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Air Accidents</title>
+</head>
+
+<body>
+
+@font-face {
+    font-family: BodoniXT;
+    src: url(fonts/BodoniXT.ttf);
+}
+
+@font-face {
+    font-family: Didot;
+    src: url(fonts/Didot.ttc);
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: BodoniXT;
+   
+}
+
+p {
+    font-family: Didot;
+}
+
+img {
+    float: left;
+    padding-right: 1em;
+}
+
+.container {
+    background: #dbe4ea;
+    border-radius: 5px;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    padding-bottom: 2em;
+    padding-left: 2em;
+    padding-right: 2em;
+    
+   
+}
+
+
+
+.map {
+    background-color: #ffffff;
+    padding: 2em;
+    border-radius: 5px;
+}
+
+.broad_phase {
+    background-color: #ffffff;
+    border-radius: 5px;
+    display: inline-block;
+    width: 100%;
+}
+
+.vmc {
+    background-color: #dbe4ea;
+    border-radius: 5px;
+    padding: 1em;
+    margin-top: 1em;
+}
+
+.imc {
+    background-color: #dbe4ea;
+    border-radius: 5px;
+    padding: 1em;
+    margin-top: 1em;
+}
+
+.state_table {
+    background-color: #ffffff;
+    border-radius: 5px;
+    padding: 1em;
+    font-family: Didot;
+    height: 455px;
+}
+
+.state_table th {
+    background-color: #1f648a;
+    font-family: Didot;
+    color: #ffffff;
+}
+
+.modal-content {
+    padding: 2em
+}
+
+.weather {
+    margin-top: 1em;
+}
+
+.chart1 {
+    margin-top: 1em;
+
+}
+
+.table {
+   
+}
+
+
+
+.panel-body {
+    background-color: #dbe4ea;
+}
+
+.panel-default>.panel-heading {
+    background-color: #bac6d2;
+}
+
+.btn-primary {
+    background-color: #f1f5f8;
+    color: #1f648a;
+    border-color: #bac6d2;
+}
+
+
+
+input, button, select, textarea {
+    font-family: BodoniXT;
+}
+
+.btn:hover {
+    background-color: #1f648a;
+}
+
+
+
+</body>
+</html>
